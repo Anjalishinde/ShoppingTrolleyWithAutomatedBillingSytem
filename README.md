@@ -1,7 +1,7 @@
 # ShoppingTrolleyWithAutomatedBillingSytem 
  A cart that contains a Rfid reader whenever the product is scanned the item is added to the cart and automatically bill is created.
  Used microcontroller atmega16, RFID Cards, and LCD to display the expiry, total price, and name of the product  
- Programed using keil software.
+ Programed using avr studio software.
  
  ![image](https://user-images.githubusercontent.com/73609612/124925956-a2cc4680-e01a-11eb-8476-1560c99ae3a0.png)
 
